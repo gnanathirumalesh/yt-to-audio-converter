@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@google-cloud/speech": "^6.1.0",
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "whois": "^2.14.0",
+    "whois-json": "^2.0.4",
+    "ytdl-core": "^4.11.5"
+  }
+}
